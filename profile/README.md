@@ -1,2 +1,1 @@
-# SAEON
-South African Environmental Observation Network
+South African Environmental Observation Network (SAEON)
