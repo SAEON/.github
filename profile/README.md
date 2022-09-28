@@ -1,2 +1,2 @@
-# South African Environmental Observation Network (SAEON)
-Welcome to the SAEON GitHub organization
+# SAEON
+South African Environmental Observation Network
